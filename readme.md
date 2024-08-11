@@ -1,5 +1,5 @@
 # Portfolio
 
-Just my 3rd portfolio site generated using `Akash`
+My portfolio site
 
 <a href="https://akash-portfolio-react.netlify.app/">live link to website</a>
