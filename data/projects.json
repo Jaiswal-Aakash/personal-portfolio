@@ -1,0 +1,18 @@
+{
+    "projects":[
+        {
+            "title": "Tomato",
+            "imageUrl": "https://raw.githubusercontent.com/Jaiswal-Aakash/images/main/Screenshot%202024-08-06%20223453.jpg",
+            "project_url": "https://github.com/Jaiswal-Aakash/Food-Delivery",
+            "description": "Designed an interface for users to order from 32 different food items.",
+            "tags": [ "react", "nodejs", "javascript" ]
+        },
+        {
+            "title": "Gemini Pro 1.5 Clone",
+            "imageUrl": "https://raw.githubusercontent.com/Jaiswal-Aakash/images/main/Screenshot%202024-08-11%20150657.png",
+            "project_url": "https://github.com/Jaiswal-Aakash/gemini-clone",
+            "description": "Built a React.js project in 4 days that replicates Gemini's chat application interface using the Gemini API",
+            "tags": [ "react", "nodejs", "javascript" ]
+        }
+    ]
+}
