@@ -1,8 +1,7 @@
-
-
 module.exports = {
-    reactStrictMode: true,
-    env: {
-      NAME: process.env.NAME,
-    }
+  reactStrictMode: true,
+  env: {
+    NAME: process.env.NAME,
+  },
+  output: "export",
 }
